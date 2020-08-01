@@ -4,7 +4,7 @@
 
 ```js
 
-const safeGet = require("@fengqiaogang/safe-get");
+const safeGet = require("@lijixuan/safe-get");
 
 const data = {
   "a": {
